@@ -18,6 +18,6 @@ git push origin main
 
 # How to run?
 
-conda create -n visa python=3.8 -y
-conda activate visa
+conda create -n visa python=3.8 -y<br>
+conda activate visa<br>
 pip install -r requirements.txt
